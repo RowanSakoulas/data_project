@@ -6,3 +6,6 @@ python3 -m pip install pandas
 python3 -c 'import pandas'
 
 ^ to fix missing source
+
+python -m notebook
+^ open slides
